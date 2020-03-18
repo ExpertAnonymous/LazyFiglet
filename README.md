@@ -23,5 +23,6 @@ sh install.sh
 ## About
 
 Author : Bibek sah
- Youtube channel: https://youtube.com/ExpertAnonymousOfficial
+
+Youtube channel: https://youtube.com/ExpertAnonymousOfficial
 
