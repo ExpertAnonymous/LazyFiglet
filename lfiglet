@@ -3,13 +3,13 @@
 clear
 echo "\033[1;91m---------------------------------------------------------"
 figlet -f Puffy "LazyFiglet"  
-echo " Generate figlet fonts in Easy way with LazyFiglet By Mujeeb"
+echo " Generate figlet fonts in Easy way with LazyFiglet By Bibek sah"
 echo " "
 echo "        Author Information"
-echo " => Name    : Mujeeb"
-echo " => Github  : https://github.com/TechnicalMujeeb/LazyFiglet.git"
-echo " => YouTube : www.youtube.com/TechnicalMujeeb"
-echo " => WhatsApp: Termux Cyber"
+echo " => Name    : Bibek sah"
+echo " => Github  : https://github.com/ExpertAnonymous/LazyFiglet"
+echo " => YouTube : www.youtube.com/ExpertAnonymousOfficial"
+echo " => WhatsApp: Expert Anonymous"
 echo "-------------------------------------------------------------- "
 echo " "
 
@@ -19,7 +19,7 @@ if [ ! -z $a ]
 then
 
 echo " "
-echo -n "\033[1;96m[*] This LazyFiglet Script By < Technical Mujeeb "
+echo -n "\033[1;96m[*] This LazyFiglet Script By < Expert Anonymous "
 echo " "
 echo -n "\033[1;92m Fonts Generating.... "
 
@@ -939,7 +939,7 @@ echo "Font = Wow "
 
 figlet -f Wow $a
 
-echo " Script By < Technical Mujeeb " 
+echo " Script By < Expert Anonymous " 
 
 else
 echo "Please Enter Valid Data"
