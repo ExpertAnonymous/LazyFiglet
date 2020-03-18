@@ -2,8 +2,8 @@
 
 clear
 cd 
-echo "\033[1;93m#Bismillah"
-figlet  "Bismillah"
+echo "\033[1;93mWelcome"
+figlet  "Welcome"
 echo ""
 apt update
 apt upgrade
