@@ -2,7 +2,7 @@
 
 clear
 cd 
-echo "\033[1;93mWelcome"
+echo "\033[1;93m[Welcome"
 figlet  "Welcome"
 echo ""
 apt update
